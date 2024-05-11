@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/LinqLearning/LinqPreparation/LinqPreparation/obj/Debug
+/LinqLearning/LinqPreparation/LinqPreparation/bin/Debug
+/LinqLearning/LinqPreparation/LinqPreparation/.vs
+/LinqLearning/LinqPreparation/AnanymousMethod2/obj/Debug
+/LinqLearning/LinqPreparation/AnanymousMethod2/bin/Debug
+/LinqLearning/LinqPreparation/.vs/LinqPreparation
+/LinqLearning/LinqPreparation/AnanymousMethods/.vs
+/LinqLearning/LinqPreparation/AnanymousMethods/bin/Debug
+/LinqLearning/LinqPreparation/AnanymousMethods/obj/Debug
